@@ -1,5 +1,8 @@
 class CashRegister
-end
 
-def initialize
+
+  def initialize
+  end
+
+
 end
